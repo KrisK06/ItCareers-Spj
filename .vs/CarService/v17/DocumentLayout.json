@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|c:\\users\\kalch\\desktop\\paaapka\\shit\\carservice\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|solutionrelative:repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|c:\\users\\kalch\\desktop\\paaapka\\shit\\carservice\\data\\enteties\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|solutionrelative:data\\enteties\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|c:\\users\\kalch\\desktop\\paaapka\\shit\\carservice\\repositories\\interface\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|solutionrelative:repositories\\interface\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|c:\\users\\kalch\\desktop\\paaapka\\shit\\carservice\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|solutionrelative:services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|c:\\users\\kalch\\desktop\\paaapka\\shit\\carservice\\services\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|solutionrelative:services\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|c:\\users\\kalch\\desktop\\paaapka\\shit\\carservice\\models\\createclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|solutionrelative:models\\createclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|c:\\users\\kalch\\desktop\\paaapka\\shit\\carservice\\controllers\\clientcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8146AD0E-782B-4423-A96D-A2C5F68FBCF4}|CarService.csproj|solutionrelative:controllers\\clientcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Data\\Enteties\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Data\\Enteties\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Data\\Enteties\\ApplicationContext.cs",
+              "RelativeToolTip": "Data\\Enteties\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:33:29.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:24:04.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClientrepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Repositories\\Interface\\IClientrepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IClientrepository.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Repositories\\Interface\\IClientrepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IClientrepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:23:43.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateClientVIewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Models\\CreateClientVIewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CreateClientVIewModel.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Models\\CreateClientVIewModel.cs",
+              "RelativeToolTip": "Models\\CreateClientVIewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:20:00.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Services\\ClientService.cs",
+              "RelativeToolTip": "Services\\ClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:17:30.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Services\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Services\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:16:44.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientControler.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Controllers\\ClientControler.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientControler.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\paaapka\\shit\\CarService\\Controllers\\ClientControler.cs",
+              "RelativeToolTip": "Controllers\\ClientControler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:14:09.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
